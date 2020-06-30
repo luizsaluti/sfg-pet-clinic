@@ -7,7 +7,7 @@ public class Pet {
     private Owner owner;
     private LocalDate birthDate;
 
-    public PetType getType() {
+    public PetType getType() { 
         return type;
     }
 
