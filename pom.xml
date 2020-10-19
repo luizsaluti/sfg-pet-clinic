@@ -39,7 +39,7 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:https://github.com/luizsaluti/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:luizsaluti/sfg-pet-clinic.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 </project>
